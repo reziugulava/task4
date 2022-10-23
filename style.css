@@ -1,0 +1,96 @@
+body {
+  background-color: #0b0d39;
+  color: #00000014;
+  font-family: "DM Sans", sans-serif;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  background-color: #1a1c46;
+  height: 40px;
+  border-radius: 100px;
+  padding: 10px;
+  width: 600px;
+  justify-content: space-around;
+  color: grey;
+  margin-left: 60px;
+}
+.nav p{
+  margin:10px 0 ;
+}
+.header5 {
+  color: white;
+  font-size: 45px;
+  margin-left: 60px;
+}
+.te {
+  color: #356dff;
+}
+.startup {
+  color: gray;
+  margin-left: 60px;
+}
+.home {
+  color: white;
+  font-weight: bolder;
+}
+.discuss {
+  color: white;
+  background-color: #356dff;
+  border-radius: 100px 100px 100px 15px;
+  width: 100px;
+  margin-left: 60px;
+  padding: 10px;
+  padding-left: 20px;
+  font-weight: lighter;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  width: 700px;
+  height: 450px;
+  color: gray;
+  background-color: #1a1c46;
+  border-radius: 30px;
+  margin-left: 60px;
+  padding: 15px;
+}
+.dream {
+  font-size: 40px;
+  color: white;
+  font-weight: 900;
+}
+.template {
+  color: #356dff;
+}
+.pirveli {
+  height: 150px;
+  width: 150px;
+  background: #ffffff12;
+  opacity: 10;
+  border-radius: 100px;
+}
+.box p {
+  margin-left: 300px;
+}
+.logo {
+  height: 30px;
+}
+.images {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.mini-header {
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+.colums {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+.mini-p {
+  font-size: 10px;
+}
